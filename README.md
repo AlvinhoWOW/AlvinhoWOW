@@ -1,6 +1,6 @@
 # Alvaro
 
-Estudante de Engenharia da COmputação construindo projetos em Python, IA e web.
+Estudante de Engenharia da Computação construindo projetos em Python, IA e web.
 
 ### Projetos
 
